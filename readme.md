@@ -53,6 +53,8 @@ Ja je hebt geen verdere instructies nodig op dit moment. Het is zo makkelijk als
 
 ### Link naar github pages
 
+https://jayjaymonster.github.io/PRG08-eindopdrachtB/
+
 Ik heb geen screencast omdat het echt enorm voor zich spreekt als je de github pages link opent.
 
 ### Accuracy uitleg
